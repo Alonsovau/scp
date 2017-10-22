@@ -1,0 +1,60 @@
+{
+    "cityDate": "苏州今日天气",
+    "wind": "西北风 3级",
+    "img": "http://img.tianqi.com/static/images/tianqibig/b1.png",
+    "week": "星期日",
+    "temperature": "22℃~14℃",
+    "weather": "多云"
+}
+{
+    "cityDate": "苏州明日天气",
+    "wind": "北风 4-5级",
+    "img": "http://img.tianqi.com/static/images/tianqibig/b1.png",
+    "week": "星期一",
+    "temperature": "19℃~12℃",
+    "weather": "多云"
+}
+{
+    "cityDate": "苏州后天天气",
+    "wind": "北风 3-4级",
+    "img": "http://img.tianqi.com/static/images/tianqibig/b1.png",
+    "week": "星期二",
+    "temperature": "20℃~12℃",
+    "weather": "多云"
+}
+{
+    "cityDate": "苏州25日天气",
+    "wind": "东北风 1-2级",
+    "img": "http://img.tianqi.com/static/images/tianqibig/b0.png",
+    "week": "星期三",
+    "temperature": "20℃~14℃",
+    "weather": "晴"
+}
+{
+    "cityDate": "苏州26日天气",
+    "wind": "东北风 1-2级",
+    "img": "http://img.tianqi.com/static/images/tianqibig/b2.png",
+    "week": "星期四",
+    "temperature": "19℃~14℃",
+    "weather": "阴"
+}
+{
+    "cityDate": "苏州27日天气",
+    "wind": "东北风 1-2级",
+    "img": "http://img.tianqi.com/static/images/tianqibig/b1.png",
+    "week": "星期五",
+    "temperature": "21℃~14℃",
+    "weather": "多云"
+}
+{"week": "星期日", "temperature": "22℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "cityDate": "苏州今日天气", "weather": "多云", "wind": "西北风 3级"}
+{"week": "星期一", "temperature": "19℃~12℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "cityDate": "苏州明日天气", "weather": "多云", "wind": "北风 4-5级"}
+{"week": "星期二", "temperature": "20℃~12℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "cityDate": "苏州后天天气", "weather": "多云", "wind": "北风 3-4级"}
+{"week": "星期三", "temperature": "20℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b0.png", "cityDate": "苏州25日天气", "weather": "晴", "wind": "东北风 1-2级"}
+{"week": "星期四", "temperature": "19℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b2.png", "cityDate": "苏州26日天气", "weather": "阴", "wind": "东北风 1-2级"}
+{"week": "星期五", "temperature": "21℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "cityDate": "苏州27日天气", "weather": "多云", "wind": "东北风 1-2级"}
+{"week": "星期日", "cityDate": "苏州今日天气", "temperature": "22℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "wind": "西北风 3级", "weather": "多云"}
+{"week": "星期一", "cityDate": "苏州明日天气", "temperature": "19℃~12℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "wind": "北风 4-5级", "weather": "多云"}
+{"week": "星期二", "cityDate": "苏州后天天气", "temperature": "20℃~12℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "wind": "北风 3-4级", "weather": "多云"}
+{"week": "星期三", "cityDate": "苏州25日天气", "temperature": "20℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b0.png", "wind": "东北风 1-2级", "weather": "晴"}
+{"week": "星期四", "cityDate": "苏州26日天气", "temperature": "19℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b2.png", "wind": "东北风 1-2级", "weather": "阴"}
+{"week": "星期五", "cityDate": "苏州27日天气", "temperature": "21℃~14℃", "img": "http://img.tianqi.com/static/images/tianqibig/b1.png", "wind": "东北风 1-2级", "weather": "多云"}
